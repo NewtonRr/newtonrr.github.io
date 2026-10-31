@@ -1,9 +1,9 @@
 ---
-title: O primero é só um teste
+title: Alô, teste...
 date: 2026-10-31 15:16:00 +0800
 categories: [blog, default]
 tags: [posts]
-description: O primeiro dos posts, só para testar.
+description: Apresentação
 pin: true
 ---
 ## Isso aqui é um post de teste.
